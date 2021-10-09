@@ -1,0 +1,23 @@
+Hari ini terjual berapa obat..
+Hari ini obat jenis cair terjual berapa
+Hari ini obat satuan pcs terjual berapa
+Hari ini obat satuan pcs terjual berapa
+
+
+Inner join
+Mengetahui detail obat.
+Obat apa saja yang jenis nya cair..
+Obat apa saja yang satuan nya pcs..
+Total Pendapatan hari
+Hari ini pengadaan obat apa saja..
+Hari ini penjualan obat apa saja..
+
+Left join
+Mengetahui jenis obat ... ini
+Mengetahui jenis obat ... ini
+Mengetahui pembeli ini membeli obat apa saja ... ini
+
+Right join
+
+
+Full Join
